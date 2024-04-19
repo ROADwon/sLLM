@@ -3,3 +3,7 @@ mlruns
 results
 wandb
 custom_train.ipynb
+eval_logs
+eval_logs_2
+eval_results
+eval_results_2
